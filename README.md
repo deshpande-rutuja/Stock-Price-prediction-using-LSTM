@@ -65,4 +65,3 @@ Stock data fetched live via the Yahoo Finance API.
 📬 Contact
 If you have questions or feedback, feel free to open an issue or reach out!
 
-Let me know if you'd like me to generate a version with Markdown formatting or auto-create a requirements.txt or sample screenshot.
