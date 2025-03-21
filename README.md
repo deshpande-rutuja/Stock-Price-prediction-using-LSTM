@@ -71,13 +71,6 @@ The app currently supports the following **blue-chip** stocks:
 ├── README.md                  # Documentation file
 ```
 
----
-
-## 📸 Screenshot
-
-![App Screenshot](screenshot.png) <!-- Optional: Add a screenshot image to the project folder -->
-
----
 
 ## 💠 Customization
 
